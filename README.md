@@ -28,6 +28,9 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
  - **Basia Fellner-Dublin (Fourth Year Student at NYU)**
    - I kept my questions open-ended at the beginning and once we had identified a big key issue, we went into a bit more detail not only about this specific problem, but also about how she thinks we could address it. She is a good representative as a fourth year who has a lot of experience using Albert.
 
+- **David Choi (Fourth Year Student at NYU)**
+  - During the interview, David highlighted a critical gap in the current Albert system: the lack of immediate feedback from academic advisors. This issue becomes particularly pressing when urgent academic guidance is needed, and advisors are not readily accessible. David's insights are valuable for understanding the specific challenges that students face when seeking academic advice, making him a key stakeholder in the development of solutions such as an AI chatbot designed to address these gaps.
+
 ### Goals Or Needs
  - **Finding which classes are offered each semester**
    - Some classes are not offered every semester and sometimes they are with different professors. Albert allows students to see the current classes offered for each semester and the professors who are teaching them.  
@@ -41,6 +44,8 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
    - Separate, smaller containers overlayed across the home page causes too many issues. There should be a button that takes the user to a dedicated full-screen course search.
  - **Organizing course search more intuitively and implementing a simple 'back' button for easier navigation**
    - The organization of the course search should be redone so that it is more user-friendly and consistent across all pages. A 'back' button should replace some of Albert's current navigation tools for increased simplicity and ease of navigation.
+ - **Immediate feedback from academic advisors**
+    - Students often require prompt responses to their academic queries, especially when making decisions that affect their course selections, degree progress, and overall academic planning. An AI chatbot could provide an immediate, 24/7 support system for answering common questions, reducing the waiting time for advisor responses.
  
 ### Problems or Frustrations
  - **The public course search UI is very lengthy and difficult to use on mobile and on desktop.**
@@ -56,6 +61,9 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
  - **Opening a separate container for the course search and the general navigation system that it uses causes confusion and leads to odd displays.**
    - Using course search and other Albert tools with the current pop-up container is very annoying to use, especially on mobile devices. Scrolling does not behave consistently and often times the container becomes distorted and impossible to use without closing and reopening the container.
    - Oftentimes, finding classes is incredibly tedious because of how complicated the organization of the course search UI is. The UI is unintuitive and the navigation buttons often do not function the way users might think they function.
+ - **Delayed responses when advisors are unavailable**
+    - The main issue David pointed out is the delay in getting responses from advisors, especially outside office hours or during peak times. This delay can hinder students' ability to make timely decisions about their academics.
+    - To address the need for immediate feedback, an AI chatbot could be integrated into the Albert system. This chatbot would be designed to answer a wide range of academic queries, from course selection advice to degree requirements and administrative procedures. By providing real-time responses, the chatbot would alleviate the pressure on academic advisors and enhance the student experience by offering accessible, immediate support.
 ___
 
 ## Product Vision Statement
