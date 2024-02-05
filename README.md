@@ -9,6 +9,8 @@ See instructions. Delete this line and replace with a list of the names of your 
 Stanley Moukhametzianov (SM9231) [Github Profile](https://github.com/Stanley-Moukhametzianov)
 <br>
 Benson Li (BL2995) [Github Profile](https://github.com/bensonnli)
+<br>
+Nicholas Meng (ndm9914) [Github Profile](https://github.com/Nmeng01)
 
 ## Stakeholders
 ___
@@ -23,13 +25,22 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
  - **Rita Hsu (Third Year Student at NYU).**
   - I interviewed her based around her purposes of using Albert. She is representative of an end-user of Albert as she has been consistently using it for three years and would be able to help identify common goals/needs for NYU students as well as points of frustration. She is also familiar with it, having used it for 3 years at this point, making her an ideal person to help identify user requirements. 
 	
+ - **Basia Fellner-Dublin (Fourth Year Student at NYU).**
+  - I kept my questions open-ended at the beginning and once we had identified a big key issue, we went into a bit more detail not only about this specific problem, but also about how she thinks we could address it. She is a good representative as a fourth year who has a lot of experience using Albert.
+
 ### Goals Or Needs
  - Finding which classes are offered each semester. 
    - Some classes are not offered every semester and sometimes they are with different professors. Albert allows students to see the current classes offered for each semester and the professors who are teaching them.  
  - Checking if classes are on waitlist and how many people are on the waitlist. 
    - Sometimes classes get canceled or filled up before students can sign up. Albert tells students which classes are available as well as how many students are waitlisted and which position the student is on the waitlist.  
+ - Creating a notifications tab so that users can receive updates on specific classes.
+   - Rather than making users search for a class over and over when they want to receive updates, users should be able to 'follow' classes of their choice and receive status updates on major changes.
  - Looking at course grades
    - Students should be able to access their course midterm/final grades, as well as past grades. They should also be able to request a transcript. 
+ - Creating a dedicated part of the app for course search.
+   - Separate, smaller containers overlayed across the home page causes too many issues. There should be a button that takes the user to a dedicated full-screen course search.
+ - Organizing course search more intuitively and implementing a simple 'back' button for easier navigation. 
+   - The organization of the course search should be redone so that it is more user-friendly and consistent across all pages. A 'back' button should replace some of Albert's current navigation tools for increased simplicity and ease of navigation.
  
 ### Problems or Frustrations
  - The public course search UI is very lengthy and difficult to use on mobile and on desktop.
@@ -39,6 +50,10 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
  - Students don't get notified when classes open or close at random times.
    - This is a problem many students face when trying to enroll in important classes for their degree requirements. Students have to often check by themselves whether classes are open or closed. Sometimes, by the time check, classes that have opened up in the meantime may have already closed.
    - A possible fix for this problem would be to give users the capability to enable notifications on certain classes or even the whole department course catalog. The app would then send a notification to the mobile device if a specific class opens up or closes. There could also be a separate notifications page within the app based on what the user has chosen to be notified about. This would eliminate the need for students to constantly check Albert course search. 
+ - Opening a separate container for the course search and the general navigation system that it uses causes confusion and leads to odd displays.
+   - Using course search and other Albert tools with the current pop-up container is very annoying to use, especially on mobile devices. Scrolling does not behave consistently and often times the container becomes distorted and impossible to use without closing and reopening the container.
+   - Oftentimes, finding classes is incredibly tedious because of how complicated the organization of the course search UI is. The UI is unintuitive and the navigation buttons often do not function the way users might think they function.
+   - An easy fix for this would be to simply remove this container functionality and have the course search appear as a button that takes you to another part of the app, much like how the home button operates. 
 
 ___
 
