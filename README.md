@@ -16,7 +16,8 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 ### Names
 
  - **Andrew Xu (Third Year Student at NYU).**
-	- I focused my questions around his needs for using Albert as well as some of the problems that he currently has. This would allow us to address those issues when making the mobile app version. 
+	- I focused my questions around his needs for using Albert as well as some of the problems that he currently has. This would allow us to address those issues when making the mobile app version. He would also make a good representative sample as he has used Albert for many years. This includes making his schedule, checking his grades, and checking his degree progress. As such, this would be an ideal user for our app. 
+
 	
 ### Goals Or Needs
  - Finding which classes are offered each semester. 
