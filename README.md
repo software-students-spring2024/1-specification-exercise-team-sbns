@@ -11,6 +11,8 @@ Stanley Moukhametzianov (SM9231) [Github Profile](https://github.com/Stanley-Mou
 Benson Li (BL2995) [Github Profile](https://github.com/bensonnli)
 <br>
 Nicholas Meng (ndm9914) [Github Profile](https://github.com/Nmeng01)
+<br>
+Sangeyl Lee (sl6733) [Github Profile](https://github.com/S2ang)
 
 ## Stakeholders
 ___
