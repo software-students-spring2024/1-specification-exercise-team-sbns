@@ -70,7 +70,7 @@ ___
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+**Optimizing NYU Albert for enhanced mobile usability and a user-friendly interface.**
 
 ## User Requirements
 
