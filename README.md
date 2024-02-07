@@ -74,7 +74,40 @@ ___
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+##### User Stories
+
+- As a NYU student, I want to find available classes so that I can make my schedule for the next semester. 
+
+- As a NYU student, I want to be able to see class sizes so that I can better know my chances of getting off the waitlist. 
+
+- As a NYU student, I want to have specific classes be hidden so that I can easily find my class without having a very long scroll distance. 
+
+- As a NYU student, I would like a notification when specific classes open or close so that I don't have to manually check each time to see. 
+
+- As a NYU student, I would like to keep track of my grades for each class and have access to my transcript, so that I know if I am doing well and can see my overall grades. 
+
+- As a NYU student, I would want a dedicated course search feature so that I don't have difficulty dealing with overlapping screens and it is easy to use on mobile. 
+
+- As a NYU student, I would want an easier to navigate course search with a back button so that I don't have to go from the start again to go back, and can have an easier time finding my classes. 
+
+- As a NYU student, I would want to see the classes that I have enrolled in, and be able to add, drop or edit my schedule. 
+
+- As a NYU student, I would want to know if there are any holds preventing me from scheduling my classes as well as see the date of when I can enroll for classes, so that I can fix any of the holds and can enroll in classes as soon as possible. 
+
+- As a NYU student, I would want an AI chatbot to quickly ask questions regarding my schedule, so that I can get help quickly without having to wait for my advisor. 
+
+- As a NYU student, I would like to have a current list of my midterm and final exam dates, so that I can get an organized area to see all of my important exams and make sure I don't miss them.  
+- As a NYU student, I would want to see the requirements that I need for my major and core, so that I know what requirements I have completed and what classes I need to take to be able to graduate. 
+
+- As a NYU Professor, I would like to be able to update my midterm and final exam dates so that students do not see the wrong information on Albert. 
+
+- As a NYU Professor, I want to list my available classes so that students can know the classes are available and sign up for them. 
+
+- As a NYU Professor, I want to be able to give students their midterm and final course grades, so that students can know how they are doing in the class, and know their end of semester grades. 
+
+- As a NYU advisor, I would like an AI chatbot, so that I can focus my time more efficiently and if the AI doesn't help the student, I can get an idea of what they wanted from the chat logs.  
+
+
 
 ## Activity Diagrams
 
