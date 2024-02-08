@@ -111,7 +111,8 @@ ___
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML_meng_resized](https://github.com/Nmeng01/1-specification-exercise-team-sbns/assets/123509773/d31bf765-7ea2-4bed-80cb-bc0fd19eae67)
+
 
 ## Clickable Prototype
 
