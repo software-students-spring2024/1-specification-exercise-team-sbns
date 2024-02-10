@@ -12,7 +12,7 @@ Benson Li (BL2995) [Github Profile](https://github.com/bensonnli)
 <br>
 Nicholas Meng (ndm9914) [Github Profile](https://github.com/Nmeng01)
 <br>
-Sangeyl Lee (sl6733) [Github Profile](https://github.com/S2ang) 
+Sangeyl Lee (SL6733) [Github Profile](https://github.com/S2ang) 
 
 ## Stakeholders
 ___
@@ -113,6 +113,9 @@ ___
 As an NYU student, I want to find available classes so that I can make my schedule for the next semester. 
 
 ![UML_meng_resized](https://github.com/Nmeng01/1-specification-exercise-team-sbns/assets/123509773/d31bf765-7ea2-4bed-80cb-bc0fd19eae67)
+
+
+![Activity Diagram2](https://github.com/S2ang/1-specification-exercise-team-sbns/blob/main/activity.drawio.png?raw=true)
 
 
 ## Clickable Prototype
