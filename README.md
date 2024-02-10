@@ -12,7 +12,7 @@ Benson Li (BL2995) [Github Profile](https://github.com/bensonnli)
 <br>
 Nicholas Meng (ndm9914) [Github Profile](https://github.com/Nmeng01)
 <br>
-Sangeyl Lee (sl6733) [Github Profile](https://github.com/S2ang) 
+Sangeyl Lee (SL6733) [Github Profile](https://github.com/S2ang) 
 
 ## Stakeholders
 ___
@@ -78,7 +78,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Activity Diagram2](https://github.com/S2ang/1-specification-exercise-team-sbns/blob/main/activity.drawio.png?raw=true)
 
 ## Clickable Prototype
 
