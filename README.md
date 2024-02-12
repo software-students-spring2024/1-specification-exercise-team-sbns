@@ -118,4 +118,4 @@ As an NYU student, I want to find available classes so that I can make my schedu
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/nSkqnmzc38OTEwQxHjqKMK/team-sbns-project-1-prototype?type=design&node-id=1-2&t=aIGpHNIbKMvAGwef-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
