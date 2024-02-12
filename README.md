@@ -118,4 +118,7 @@ As an NYU student, I want to find available classes so that I can make my schedu
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/nSkqnmzc38OTEwQxHjqKMK/team-sbns-project-1-prototype?type=design&node-id=1-2&t=aIGpHNIbKMvAGwef-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
+Wireframes: [Link](https://www.figma.com/file/nSkqnmzc38OTEwQxHjqKMK/team-sbns-project-1-prototype?type=design&node-id=0%3A1&mode=design&t=XGYzKCDdDUq228r2-1)
+<br>
+Prototype: [Link](https://www.figma.com/proto/nSkqnmzc38OTEwQxHjqKMK/team-sbns-project-1-prototype?type=design&node-id=1-2&t=aIGpHNIbKMvAGwef-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
+
